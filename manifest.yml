@@ -1,0 +1,8 @@
+---
+applications:
+- name: visitorjson
+  memory: 16M
+  instances: 4
+  domain: cfapps.io
+  host: visitorjson
+  command: visitor.json
