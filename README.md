@@ -53,10 +53,11 @@ website that has no backend and but is viewable in multiple languages. The
 website needed to know the user's preferred languages to make accurate
 recommendations.
 
-## Why Abandoned
+## Abandoned
 
 Abandoned when I realized I could use a series of simple tests to get the same
-information in JavaScript.
+information in JavaScript. I now use 
+[language.js](https://github.com/leighmcculloch/languages.js).
 
 ## Deploy to PivotalWS
 
